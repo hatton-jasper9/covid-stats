@@ -1,4 +1,4 @@
-name: covid
+name: covid-stats
 dependencies:
   - numpy
   - matplotlib
